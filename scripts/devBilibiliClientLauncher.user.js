@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         《弹幕世界2》 B 站启动器 - 开发者模式
 // @namespace    danmakucraft.com
-// @version      0.1
+// @version      0.2
 // @author       yehzhang
 // @include      /^http(s)?:\/\/www\.bilibili\.com\/video\/(av19771370|BV1GW41177LA)((\?|\/)(.*))?$/
 // @include      /^http(s)?:\/\/www\.bilibili\.com\/blackboard\/(activity-ancient-|html5)player\.html\?aid=19771370&cid=32239646(&(.*))?$/
